@@ -1,0 +1,90 @@
+body {
+    margin: 0;
+    font-family: sans-serif;
+    font-size: small;
+  }
+  .left_pane {
+    background-color: #212121;
+    vertical-align: top;
+    width: 40vw;
+    color: #eeeef0;
+  
+  }
+  td.right_pane {
+   vertical-align: top;
+    width: 70vw;
+    margin-top: 500px;
+    
+  }
+  img {
+    height: 30%;
+    padding: 10%;
+
+  }
+  table {
+    color: white;
+  }
+  .orange_block {
+    background-color: #f48c1d;
+    width: 3em;
+    display: inline-block;
+    height: 25px;
+   
+    
+  }
+  .details {
+    text-align: center;
+    padding-top: 10px;
+    padding-bottom: 10px;
+  }
+  hr {
+    border: 2px solid #d69858;
+    margin-left: 25px;
+   
+  }
+  .about_me {
+    color: black;
+  }
+  .parent {
+    background-color: grey;
+    height: 10px;
+    width: 300px;
+  }
+  .child {
+    background-color: black;
+    height: 10px;
+    width: 70%;
+  }
+  .right_headings{
+    margin-left: 30px;
+    margin-right: 40px;
+  }
+  .right_data{
+    margin-left: 30px;
+    margin-right: 40px;
+  }
+  hr.right {
+    border: 2px solid #d69858;
+    margin-left: 30px;
+    margin-right: 40px;
+    border: 2px solid black;
+    width: 70vw;
+  }
+  h3{
+    margin-left: 25px ;
+  }
+  .education{
+    margin-left: 30px;
+  }
+  .parent_orange{
+ 
+  height: 25px;
+  background-color: #373737;
+  display: flex;
+  align-items: center;
+
+  
+  }
+  .cell{
+    padding: 4px;
+  }
